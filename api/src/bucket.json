@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "patientmangementsystem",
+  "private_key_id": "1425f22f8b473fd97d4dbc5134d5f0ce6e761fae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAdng6CKuQd0my\njuR04oTH4k7qm+tijiMVYG3YtTJosQxJOhQqGtCc+Q6o1VLVZKVjwQhAjksw3WTR\nwMAPgrJbIsMW7jDlh8Q9q13LvXngrAppp0J/YbIl9HbPSLFVZDzL74X7rNUf67Sp\no1P/cLlT7dyFBk0dEkPhrrYB6HvvhRW3zWG2oYBNZIA3DIv1Tj9Yc2Fx7+I1HccT\nNj0e2ygQFNC7UVzNTUCkct+OYUMHXNu1KFlLg2xJp4yKpyuFDrC2D2hPwEhMVFCm\nFzvFFiL2ACUWosB0nOkfFUm7B51OLUWwtldX5YNTp77eODccqehfRhdvGya59rU1\nitPqAp+3AgMBAAECggEAUcMigTkEtZtPpjkZKeS/VvE36Ggzv8s1cVPlZo5Xq20n\nlIZFYbvBiyYtSaFSjtAyiOXM/SvWGpy7Q3aYwR4baici7P9kq2YZgr9l2fOVLtK3\nm7nQQLA+z+wCez3dBDNQtqx7ZXc/lU97kSOPQDHhsZuXtrV+Fg8X4mzn6nibCh3p\nSKLlijD6cfzNgS10eGyaIlIjzw7vxiLrfCHrv4M4UOa554LahKlx1b1zRY+AAKmm\naxeim14cBZw3/48Uo5VveRk2o6obbRSwErXUGjX1N/i1+8Q/PL4SErJN4iwxPpUy\nr3wRiQjGSfdH9LwCegCTsxiSUZ/fxZMepassvEr/vQKBgQDp4JoClJMzjk26fSUB\njZ5O/aq5th3M8D0629jETayOBrojwzB35PS2FheTIdpOgJEz/29W3FJopmt7QaGj\nYRU68gVnss57Xo6Sy/EI+RJkdD8U9Bj2AM78Zab2tQpFhLLW0Q3WFmbG9ucapzan\nh3PXMZ3jcMOnms6L3M3GF47WhQKBgQDSqwDx86+PDkqmbUnLyob5nCljl854lSNA\nRTyLy8fDSdLrU7GP3R+yxwplpA/ZLxowJXC4z4nOS8QQVL1jAWDAH+re8BZTkW54\nqVIQf+OyKv3dYRWgfwA+2vrNqSJYD3KKmWb2oxdv7pn6Q+gocrTyHcnqwRjqv6HK\nKbQeD4JICwKBgHX4x3b5vu7In0isi5gm+W3a4t1ekdWocRpZfxQ2Ig5aMlaLxM0V\nfqLCrg2Xi+kBTT0vYdgstpz3JUw9JO2msPDU2Akg1qrAXaaKnQDrsm1dfdxx7I1a\nhw4lsHzNgWrjrtpRBWuyTRGbxaNaKWWEG9i2vG/Xl7nZispeDKYZiAGJAoGBAL2e\nmAov6kxcc8rbQfpBwD36VrLDGGAm9QTLjRTThmn8D/Ircf5o7TgwueYExxMYt3yw\npoZin8plHgQJEjKEMf6ce/7QoXf0xjerSCd7xYo/8iMKWLoOtjzdQ7RL0ZLrzJB+\nRVQoNldUr5m498U4gjAPqgg4aGIbvNfHs8z+7qhDAoGAe9JLCWhzuLekJbu58ZPM\n/4RDNeu5hxVxdDLLegD7AGTbyPeJmNP8iuldc9Y0BEN5flCKURGvFA88MTBXiQw5\ndHYae4LJyCes4miC5wecS0/NKJZB7c4HekuWw4Ii+/2162fhiwsLpsrB4AaSYMup\nYQNi9uRb4gwBjidZYDahz48=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account-58@patientmangementsystem.iam.gserviceaccount.com",
+  "client_id": "106025886115154347889",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account-58%40patientmangementsystem.iam.gserviceaccount.com"
+}
