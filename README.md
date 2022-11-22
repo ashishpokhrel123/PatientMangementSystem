@@ -9,14 +9,14 @@
 git clone  https://github.com/ashishpokhrel123/PatientMangementSystem
 
  #(Backend)
-   -- cd api/src
-   -- npm install
-   -- create google storage bucket
-   --  npm start
+     1. cd api/src
+     2.  npm install
+     3.  create google storage bucket
+     4. npm start
 
 
 
 # (frontend)
-  -- cd client/pms
-  -- npm install
- --   npm start
+  1.  cd client/pms
+ 2.  npm install
+ 3.   npm start
