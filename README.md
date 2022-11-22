@@ -8,7 +8,7 @@
 # For Setup 
 git clone  https://github.com/ashishpokhrel123/PatientMangementSystem
 
- #(Backend)
+ # (Backend)
     1. cd api/src
     2.  npm install
     3.  create google storage bucket
